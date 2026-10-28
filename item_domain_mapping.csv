@@ -1,0 +1,29 @@
+excel_item_variable,spss_item_variable,script_domain_label,manuscript_domain_label,response_codes,coding_note
+ua1,WRI_ItemI1,Inattention,Attention difficulties,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+ua2,WRI_ItemI2,Inattention,Attention difficulties,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+ua3,WRI_ItemI3,Inattention,Attention difficulties,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+ua4,WRI_ItemI4,Inattention,Attention difficulties,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+ua5,WRI_ItemI5,Inattention,Attention difficulties,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+hy1,WRI_ItemII1,Hyperactivity,Hyperactivity/restlessness,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+hy2,WRI_ItemII2,Hyperactivity,Hyperactivity/restlessness,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+hy3,WRI_ItemII3,Hyperactivity,Hyperactivity/restlessness,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+temp1,WRI_ItemIII1,Temper,Temper,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+temp2,WRI_ItemIII2,Temper,Temper,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+temp3,WRI_ItemIII3,Temper,Temper,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+afflab1,WRI_ItemIV1,Affective lability,Affective lability,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+afflab2,WRI_ItemIV2,Affective lability,Affective lability,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+afflab3,WRI_ItemIV3,Affective lability,Affective lability,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+afflab4,WRI_ItemIV4,Affective lability,Affective lability,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+emo1,WRI_ItemV1,Emotional overreactivity,Emotional overreactivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+emo2,WRI_ItemV2,Emotional overreactivity,Emotional overreactivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+emo3,WRI_ItemV3,Emotional overreactivity,Emotional overreactivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+des1,WRI_ItemVI1,Disorganization,Disorganization,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+des2,WRI_ItemVI2,Disorganization,Disorganization,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+des3,WRI_ItemVI3,Disorganization,Disorganization,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+des4,WRI_ItemVI4,Disorganization,Disorganization,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+des5,WRI_ItemVI5,Disorganization,Disorganization,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+imp1,WRI_ItemVII1,Impulsivity,Impulsivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+imp2,WRI_ItemVII2,Impulsivity,Impulsivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+imp3,WRI_ItemVII3,Impulsivity,Impulsivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+imp4,WRI_ItemVII4,Impulsivity,Impulsivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1
+imp5,WRI_ItemVII5,Impulsivity,Impulsivity,"1, 2, 3",Original WRAADDS rating 0-2 shifted by +1

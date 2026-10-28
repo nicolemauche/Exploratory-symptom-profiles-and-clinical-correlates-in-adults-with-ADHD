@@ -48,3 +48,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data, model objects and outputs (never publish)
+   *.rds
+   *.sav
+   *.xlsx
+   *.csv
+   !item_domain_mapping.csv
+   lca_final_*/
